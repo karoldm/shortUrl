@@ -45,4 +45,4 @@ The `shortUrlRedirect` function retrieves the original URL from the S3 bucket us
 
 Below is a diagram showing the flow of the Short URL creation and redirection process:
 
-![diagram flow](./shortUrlDiagram.png)
+![diagram flow](shortUrlDiagram.jpg)
